@@ -1,6 +1,12 @@
-# Git LFS Tutorial 
+# LFS Installation 
 
-First things first, install git 1.8.2 or newer and then install git-lfs (See [here](Installation))
+1 ) Installer la dernière version de git
+
+2 ) Télécharger git lfs [ICI]
+
+3 ) L'installer,  ouvrir cmd et taper : 
+        
+    git lfs install
 
 ## Create a new repo ##
 
